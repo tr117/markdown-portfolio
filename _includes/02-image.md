@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![circle picture](https://github.com/tr117/markdown-portfolio/edit/add-images-links/_includes/circle.png)
